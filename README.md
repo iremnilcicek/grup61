@@ -3,13 +3,15 @@ GRUP61
 
 ---
 
-TAKIM ÜYELERİ:  
+👥 Takım Üyeleri
 
-İrem Nil Çiçek      | Product Owner | [LinkedIn](https://www.linkedin.com/in/irem-nil-%C3%A7i%C3%A7ek-3a0295216/) |
-Sudenaz Lök         | Scrum Master  | [LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/sudenaz-l%C3%B6k-538026298/)) |
-Cahit Yunus Özdikiş | Developer     | [LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/cahit-yunus-%C3%B6zdiki%C5%9F-582934260/)) |
-Ayça Engin          | Developer     | [LinkedIn](https://www.linkedin.com/in/ay%C3%A7a-engin-b0ab45295/) |
-Berkay Doğan        | Developer     | [LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/berkaydogan-/)) |
+| İsim                   | Rol            | LinkedIn                                                                 |
+|------------------------|----------------|--------------------------------------------------------------------------|
+| İrem Nil Çiçek         | Product Owner  | [LinkedIn](https://www.linkedin.com/in/irem-nil-%C3%A7i%C3%A7ek-3a0295216/) |
+| Sudenaz Lök            | Scrum Master   | [LinkedIn](https://www.linkedin.com/in/sudenaz-l%C3%B6k-538026298/)         |
+| Cahit Yunus Özdikiş    | Developer      | [LinkedIn](https://www.linkedin.com/in/cahit-yunus-%C3%B6zdiki%C5%9F-582934260/) |
+| Ayça Engin             | Developer      | [LinkedIn](https://www.linkedin.com/in/ay%C3%A7a-engin-b0ab45295/)           |
+| Berkay Doğan           | Developer      | [LinkedIn](https://www.linkedin.com/in/berkaydogan-/)                        |
 
 ---
 
@@ -79,15 +81,13 @@ Toplam proje 300 puana bölünerek 3 sprint oluşturulmuştur. Sprint 1, planlam
 
 ## 📌 Sprint Backlog – Seçilen User Story’ler ve Görevler
 
-## 👥 Takım Üyeleri
-
-| İsim                   | Rol            | LinkedIn                                                                 |
-|------------------------|----------------|--------------------------------------------------------------------------|
-| İrem Nil Çiçek         | Product Owner  | [LinkedIn](https://www.linkedin.com/in/irem-nil-%C3%A7i%C3%A7ek-3a0295216/) |
-| Sudenaz Lök            | Scrum Master   | [LinkedIn](https://www.linkedin.com/in/sudenaz-l%C3%B6k-538026298/)         |
-| Cahit Yunus Özdikiş    | Developer      | [LinkedIn](https://www.linkedin.com/in/cahit-yunus-%C3%B6zdiki%C5%9F-582934260/) |
-| Ayça Engin             | Developer      | [LinkedIn](https://www.linkedin.com/in/ay%C3%A7a-engin-b0ab45295/)           |
-| Berkay Doğan           | Developer      | [LinkedIn](https://www.linkedin.com/in/berkaydogan-/)                        |
+| User Story Başlığı                             | Puan | Açıklama |
+|------------------------------------------------|------|----------|
+| Kullanıcı kayıt/giriş işlevselliği planlama    | 20   | Google Auth kullanılacak, Firebase üzerinden |
+| Görev sistemi mimarisi oluşturma               | 25   | Görevler nasıl saklanacak, CRUD akışı |
+| Görev etiketleme kategorilerinin belirlenmesi | 15   | Günlük/haftalık/aylık sınıflandırma yapısı |
+| Firebase veritabanı şeması planlama            | 20   | Realtime mı Firestore mu? Hangi veri nasıl? |
+| İlk wireframe ve UI bileşenleri çizimi         | 20   | Basit ekran taslakları (login, home, görev listesi) |
 
 ---
 
@@ -105,9 +105,6 @@ Miro üzerinden ürün backlog’u oluşturulmaya başlanacak. User story'ler a�
 
 Geliştirme süreci başlamadığı için bu sprintte resmi Daily Scrum toplantıları yapılmamıştır. Ancak ekip üyeleri arasında görev dağılımı ve planlamaya yönelik Google Meet ve WhatsApp üzerinden günlük iletişim kurulmuştur.
 
-![PHOTO-2025-07-07-20-39-54](https://github.com/user-attachments/assets/c93e3a9f-140a-4874-9831-e8ea01e56cb0)
-![PHOTO-2025-07-07-20-39-54](https://github.com/user-attachments/assets/7e3743b8-e86d-4b1e-a4a6-787b5a516d6f)
-
 
 Sprint 2 ile birlikte her gün saat 20.00’da düzenli Daily yapılması planlanmaktadır.
 
@@ -124,6 +121,8 @@ Sprint board henüz geliştirme içermediğinden dolayı sadece planlama aşamas
 
 Sprint 1 boyunca arayüz kodlaması yapılmamıştır. Ancak arayüzün temel bileşenleri Figma üzerinden çizilmeye başlanacak. (Login ekranı, görev listesi, görev detayı gibi)
 
+![PHOTO-2025-07-07-20-39-54](https://github.com/user-attachments/assets/c93e3a9f-140a-4874-9831-e8ea01e56cb0)
+![PHOTO-2025-07-07-20-39-54](https://github.com/user-attachments/assets/7e3743b8-e86d-4b1e-a4a6-787b5a516d6f)
 
 ---
 
