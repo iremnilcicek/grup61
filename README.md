@@ -109,7 +109,7 @@ Toplam proje 300 puana bölünerek 3 sprint oluşturulmuştur. Sprint 1, planlam
 
 ## 🗂️ Product Backlog & Miro Linki
 
-Miro üzerinden ürün backlog’u oluşturulmaya başlanacak. User story'ler aşağıdaki renk kodlarıyla ayrılacak.
+Miro üzerinden ürün backlog’u oluşturulmaya başlandı, ayrıldı. User story'ler aşağıdaki renk kodlarıyla ayrılacak.
 
 •⁠  ⁠🔵 Yazılım
 
@@ -117,6 +117,7 @@ Miro üzerinden ürün backlog’u oluşturulmaya başlanacak. User story'ler a�
 
 •⁠  ⁠🟢 Veri tabanı / destek görevleri
 
+https://miro.com/app/board/uXjVIg5TCGA=/?share_link_id=927571156801
 	
 ---
 
